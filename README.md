@@ -96,19 +96,30 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 
 
 ## Usage instructions
-⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
+- Navigate to https://portal.sitecorecloud.io and login with your credentials
+- Navigate to Page and Create a New Page
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/5a0c2a4f-a379-419d-b6cb-86d9ce63cea4)
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/48eab51e-2fe3-438f-bd29-c0c0d3a6a758)
+- Insert Rich Text Component in the Page You will see the Rich Text Component with 4 prompts
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/34fa0daf-548a-474b-9f96-cecaec4ee23d)
+- Insert a Text and Hit Generate Prompt
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/3c0c1757-339e-4e25-90af-6c920203b13a)
+- You can see the text populated now Hit Accept to populate the data in RTE Field
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/d138c4fe-66c9-44da-a10a-0dcf5cc470a0)
+- Now Hit the Rewrite Prompt Button
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/f87d6676-1219-41ac-ad17-e614cdc20ad5)
+- You can see the altered text populated now Hit Accept to populate the data in RTE Field
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/afbb6c96-348b-4954-9212-be38a2fc7f4c)
+- Now Hit Summarize Prompt Button
+![image](https://github.com/Sitecore-Hackathon/2024-Inspire/assets/36916946/7ed7d744-d28c-4952-b1b3-7766464709d2)
 
-Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
 
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
 
-You can embed images of different formats too:
 
-![Deal With It](docs/images/deal-with-it.gif?raw=true "Deal With It")
 
-And you can embed external images too:
 
-![Random](https://thiscatdoesnotexist.com/)
+
+
 
 ## Comments
 If you'd like to make additional comments that is important for your module entry.
