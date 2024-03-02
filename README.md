@@ -21,7 +21,7 @@ You can find a very good reference to Github flavoured markdown reference in [th
 Sitecore XM Cloud AI Content Assistant
 
 ### Description
-This module enhances the capability of the Rich Text component in Sitecore XM Cloud. Currently, in the Rich Text component, content authors input the text in the RTE field that they want to display on the website after publishing. However, there is no flexibility to generate content within XM Cloud or proofread and rewrite the content provided by content authors.
+This module enhances the capability of the Rich Text component in Sitecore XM Cloud. Currently, in the Rich Text component, content authors input the text in the RTE field that they want to display on the website. However, there is no flexibility to generate content within XM Cloud or proofread and rewrite the content provided by content authors.
 
 Our module addresses this limitation by integrating Gen AI technologies, particularly leveraging OpenAI APIs (although other services like Azure AI Service can also be utilized). By leveraging AI, we provide content editors with enhanced functionality directly within the Pages Editor in XM Cloud.
 
@@ -41,6 +41,7 @@ The main problem addressed by this module is the lack of flexibility and efficie
 Key Technical Scenarios Addressed:
 
 No CMS Customization Needed: The module seamlessly adds AI features like smart editing, real-time translation, and ChatGPT-generated content to Sitecore XM Cloud without any complex CMS modifications. This hassle-free integration saves time and preserves the CMS's integrity.
+
 In-CMS Content Management: All content tasks, from creation to optimization, are handled within Sitecore's ecosystem, removing the need to use external platforms for advanced editing or translation. This keeps the content workflow efficient and centralized, reducing errors and streamlining operations.
 
 How Does This Module Solve It: 
@@ -54,14 +55,8 @@ Our module leverages AI capabilities to streamline and enhance the content creat
 
 Ultimately, this module saves significant time and effort for content editors, allowing them to focus on creating compelling and error-free content for websites powered by Sitecore XM Cloud.
 
-
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
-
 ## Video link
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
-
-⟹ [Replace this Video link](#video-link)
-
+https://youtu.be/4tRsElqK9Uo
 
 
 ## Pre-requisites and Dependencies
